@@ -74,6 +74,7 @@
 * ⭐ **[Google Translate](https://translate.google.com/)** / [Chrome Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) / [.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/) - Online
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
+* onlinefontsgenerstor.com
 * [⁠Mozhi](https://codeberg.org/aryak/mozhi#instances) - Multi Translation Engine Frontend
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
